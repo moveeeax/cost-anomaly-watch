@@ -31,3 +31,7 @@ cost-anomaly-watch --baseline-days 30 --threshold 2.5-sigma --min-delta 50 \
 ## License
 
 MIT
+
+---
+
+Archived on 2026-11-05. The idea moved to [aws-cost-slack](https://github.com/moveeeax/aws-cost-slack/issues/2).
